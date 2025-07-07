@@ -57,10 +57,9 @@ Feel free to open an issue or start a discussion if you'd like to share feedback
 
 ![](https://github.com/user-attachments/assets/79583015-5d76-4bfb-bbf2-e18c4fd14085)
 
+![](https://github.com/user-attachments/assets/ed65f24d-f62b-45e4-b0ed-5180bdfe287d)
 
-![Main Menu](https://your-link-to-image.com/main-menu.png)
-![In-Game](https://your-link-to-image.com/ingame.png)
-![Books Collected](https://your-link-to-image.com/books.png)
+
 
 ---
 
