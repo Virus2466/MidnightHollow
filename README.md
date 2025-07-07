@@ -1,6 +1,7 @@
 # 🌙 Midnight Hollow
 
 Welcome to **Midnight Hollow** — my first solo project built entirely in Unreal Engine 5!  
+![](https://github.com/user-attachments/assets/8373b245-6338-4677-a64a-eaf0c2e04e46)
 
 ---
 
